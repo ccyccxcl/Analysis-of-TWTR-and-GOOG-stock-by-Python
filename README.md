@@ -1,6 +1,4 @@
 # Analysis-of-TWTR-and-GOOG-stock-by-Python
-
-
 # 推特和谷歌股票的python分析
 ## 1.1 数据加载 加载分析所需的Python库
 import statsmodels.api as sm
@@ -94,7 +92,7 @@ plt.show()
 
 #散点图表明，推特和谷歌公司的股价可能存在线性的正相关关系。
 
-1.3回归分析
+##1.3回归分析
 import statsmodels.api as sm
 #加入截距项。
 daily_return["intercept"]=1.0
