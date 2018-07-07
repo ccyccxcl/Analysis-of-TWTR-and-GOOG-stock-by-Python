@@ -1,7 +1,8 @@
 # Analysis-of-TWTR-and-GOOG-stock-by-Python
-推特和谷歌股票的python分析
 
-# 一 个股与指数的回归分析 ## 1.1 数据加载 加载分析所需的Python库
+
+# 推特和谷歌股票的python分析
+## 1.1 数据加载 加载分析所需的Python库
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 import statsmodels.graphics.api as smg
